@@ -9,7 +9,7 @@ https://github.com/BradLarson/GPUImage
 
 License
 -------------------------
-Copyright 2015 DUBULEE
+Copyright 2015 mugku
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
